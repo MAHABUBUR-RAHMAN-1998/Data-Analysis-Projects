@@ -12,4 +12,4 @@
 <h3 align="left">Key Insights</h3>
 
 ![alt text](https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/1.%20Sales%20Insights/Dashborads_page-0001.jpg)
-<img src="[./images/example.jpg](https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/1.%20Sales%20Insights/Atliq%20Hardware%20Sales%20Insights_page-0001.jpg)" alt="Example Image" width="500" height="300">
+<img src="https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/1.%20Sales%20Insights/Atliq%20Hardware%20Sales%20Insights_page-0001.jpg" alt="Key Insights" width="720" height="1080">
