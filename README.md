@@ -2,8 +2,8 @@
 <h1 align="Left">Project No 1: Sales Insights </h1>
 
 - **At First Data imported From mysql**
-- **Observing the Data**
-- **Determining the problems or getting requiremnts**
+- **Observed the Data**
+- **Determined the problems or got the requiremnts**
 - **Perfomed Data Cleaning and Transform**
 - **Created Data Model**
 - **Generated Isights Using PowerBI Dashborad**
