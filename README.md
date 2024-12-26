@@ -10,4 +10,4 @@
 
 <h3 align="left">Key Insights</h3>
 
-![alt text](./1. Sales Insights/Dashborads_page-0001.jpg)
+![alt text](https://github.com/MAHABUBUR-RAHMAN-1998/Data-Analysis-Projects/blob/main/1.%20Sales%20Insights/Dashborads_page-0001.jpg)
