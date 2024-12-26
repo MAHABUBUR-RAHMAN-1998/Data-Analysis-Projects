@@ -1,5 +1,5 @@
 # Data-Analysis-Projects
-<h1 align="Left">Project No.1: Sales Insights </h1>
+<h1 align="Left">Project No 1: Sales Insights </h1>
 
 - **At First Data imported From mysql**
 - **Observing the Data**
